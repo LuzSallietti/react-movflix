@@ -8,7 +8,6 @@ import Favourites from './pages/Favourites/Favourites';
 import SearchResults from './pages/SearchResults/SearchResults';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
-import './App.css';
 
 function App() {
   return (
